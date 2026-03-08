@@ -4,7 +4,7 @@
 
 ### New racing line merch coming soon:
 
-![racing line pants](https://github.com/SimQuips/SimQuips.com/blob/main/images/racing%20pants.jpg?raw=true)
+![racing line pants](images/racing%20pants.jpg)
 
 ### ALREADY BANNED FROM 23 COUNTRIES (or maybe just r/simracing)
 
