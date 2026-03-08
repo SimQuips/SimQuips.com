@@ -8,6 +8,6 @@
 
 ### ALREADY BANNED FROM 23 COUNTRIES (or maybe just r/simracing)
 
-![ban1](https://github.com/SimQuips/SimQuips.com/blob/main/images/bansmall.jpg?raw=true)
+![ban1](images/bansmall.jpg)
 
-![ban2](https://github.com/SimQuips/SimQuips.com/blob/main/images/Reddit%20ban%202.jpg?raw=true)
+![ban2](images/Reddit%20ban%202.jpg)
